@@ -85,3 +85,8 @@ FastMCP 会自动暴露一个名为 `get_popular` 的工具：
 ## 📄 License
 
 MIT License.
+
+## Hosted deployment
+
+A hosted deployment is available on [Fronteir AI](https://fronteir.ai/mcp/xspadex-bilibili-mcp).
+
